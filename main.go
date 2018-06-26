@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/pilu/fresh/runner"
+	"github.com/davidkwonds/fresh/runner"
 )
 
 func main() {
